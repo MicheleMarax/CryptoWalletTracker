@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639412589160",
+    "project_id": "brotherproject-8bd51",
+    "storage_bucket": "brotherproject-8bd51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639412589160:android:c3a241e885b4b6f2b261dd",
+        "android_client_info": {
+          "package_name": "com.meonlybusiness.projectbrother"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639412589160-4ape178uf59qlokkj6p6e6gac8aeca3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW1J7KG4iLFndVYHe7MNwAI-SFZvMgdkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639412589160-4ape178uf59qlokkj6p6e6gac8aeca3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
